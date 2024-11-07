@@ -1,5 +1,8 @@
 # Screenshots of todo list
-![Screenshot_20241106-100705_Expo Go](https://github.com/user-attachments/assets/c01fa64c-83f1-4850-8d91-2833e03cbde9)
+
+<img src="https://github.com/user-attachments/assets/c01fa64c-83f1-4850-8d91-2833e03cbde9" width="300" /> 
+
+
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
